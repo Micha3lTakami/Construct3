@@ -3,4 +3,6 @@ A simple platformer created with Jackson Nadler-Block and Jaeson Gu.
 
 All art, code, and music created by team members.
 
+USAGE: File can be downloaded and opened using Construct3(any build)
+
 2021
